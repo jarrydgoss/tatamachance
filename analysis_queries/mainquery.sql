@@ -9,4 +9,5 @@ number_five,
 number_six,
 number_seven,
 powerball
-FROM draws;
+FROM draws
+ORDER BY id DESC;
