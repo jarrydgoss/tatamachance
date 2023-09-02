@@ -40,3 +40,7 @@ mysqldump -u root -p milliondb > exported.sql
 ### GitHub Repository
 - Created a GitHub repository for this project.
 - Added all relevant files, including the cleaned CSV, SQL files, and a README.md file to document the project.
+
+
+### Updates
+- Added startmysql.sh to make connecting to MYSQL server easier. Must be root user first.
