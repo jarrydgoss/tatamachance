@@ -1,10 +1,13 @@
 # tatamachance
 
-Repo for analysing PowerBall Lotto Results to determine some kind of pattern that will assist in picking winning numbers.
+Created this repo as part of an exercise in my Data Engineering Course to demonstrate my ability Importing and Exporting with MYSQL.
 
-At the very least, historical data should be able to:
+## Tasks
 
-- narrow down the numbers
--identify key combos of numbers
-- how often there are WA winners
-- what times of the year are there jackpot winners in WA
+- Generate either a CSV file or a SQL file to populate a MySQL database
+
+- Load the data into MySQL, and then use mysqldump to export everyting into a SQL file.
+
+- Create a new (empty) database and use the exported data to load everything again. Ensure that all data is present
+
+- Create a repository, add all relevant files, and a README.md file to your Github project that describes what you did
